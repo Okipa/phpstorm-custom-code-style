@@ -22,6 +22,11 @@
   <option name="HTML_INLINE_ELEMENTS" value="abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,img,input,kbd,label,q,s,samp,select,span,strike,strong,sub,sup,textarea,tt,u,var" />
   <option name="HTML_DONT_ADD_BREAKS_IF_INLINE_CONTENT" value="" />
   <option name="HTML_ENFORCE_QUOTES" value="true" />
+  <CssCodeStyleSettings>
+    <option name="HEX_COLOR_LOWER_CASE" value="true" />
+    <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
+    <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
+  </CssCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
