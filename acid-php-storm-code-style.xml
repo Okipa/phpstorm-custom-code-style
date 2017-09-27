@@ -1,4 +1,4 @@
-<code_scheme name="Default">
+<code_scheme name="ACID">
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="HTML_ATTRIBUTE_WRAP" value="4" />
   <option name="HTML_KEEP_BLANK_LINES" value="1" />
@@ -13,7 +13,6 @@
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
     <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
-    <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
   </CssCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
