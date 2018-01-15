@@ -1,5 +1,5 @@
 # Laravel Code Style
-This code style is base on the Laravel one.  
+This code style is based on the Laravel one.  
 Feel free to use it and to submit changes if you detect some inconsistencies.
 
 ## How to import
