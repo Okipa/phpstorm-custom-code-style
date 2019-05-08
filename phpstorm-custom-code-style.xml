@@ -117,7 +117,7 @@
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="true" />
     <option name="LINE_COMMENT_ADD_SPACE" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
-    <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
     <option name="SPACE_AROUND_UNARY_OPERATOR" value="true" />
@@ -160,7 +160,7 @@
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="0" />
-    <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
     <option name="SPECIAL_ELSE_IF_TREATMENT" value="true" />
@@ -216,7 +216,7 @@
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="true" />
     <option name="LINE_COMMENT_ADD_SPACE" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
-    <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
     <option name="BLANK_LINES_AROUND_FIELD_IN_INTERFACE" value="1" />
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
