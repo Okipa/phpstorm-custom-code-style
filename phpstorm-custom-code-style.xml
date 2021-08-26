@@ -98,7 +98,6 @@
   </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_KEEP_BLANK_LINES" value="1" />
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="Blade">
     <indentOptions>
@@ -206,6 +205,7 @@
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
     <option name="SPECIAL_ELSE_IF_TREATMENT" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
     <option name="SPACE_AFTER_TYPE_CAST" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
