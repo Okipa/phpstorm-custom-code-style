@@ -88,14 +88,14 @@
   </ScssCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
-    <option name="FIELD_PREFIX" value="" />
-    <option name="FILE_NAME_STYLE" value="CAMEL_CASE" />
     <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+    <option name="SPACES_WITHIN_UNION_TYPES" value="false" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
-    <option name="SPACES_WITHIN_OBJECT_TYPE_BRACES" value="false" />
     <option name="SPACE_AFTER_UNARY_NOT" value="true" />
   </TypeScriptCodeStyleSettings>
   <XML>
@@ -260,7 +260,6 @@
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
     <option name="BLANK_LINES_AROUND_FIELD_IN_INTERFACE" value="1" />
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
-    <option name="SPACE_AROUND_UNARY_OPERATOR" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
     <option name="METHOD_PARAMETERS_WRAP" value="5" />
     <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
